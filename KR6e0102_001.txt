@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:12.673542
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:42
 #+TITLE: 註華嚴經題法界觀門頌
 #+PROPERTY: CBETA_ID T45n1885
 #+PROPERTY: ID KR6e0102
@@ -14,7 +14,7 @@
 ¶
 No.1885¶
 
-註華嚴經題法界觀門頌引
+* 註華嚴經題法界觀門頌引
 :PROPERTIES:
 :head: 註華嚴經題法界觀門頌引
 :END:

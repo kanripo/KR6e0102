@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:12.673542
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:42
 #+TITLE: 註華嚴經題法界觀門頌
 #+PROPERTY: CBETA_ID T45n1885
 #+PROPERTY: ID KR6e0102
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1885
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0102_T_000-0692b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0102_T_001-0692b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1885¶
+No. 1885¶
 
-註華嚴經題法界觀門頌引
-:PROPERTIES:
-:head: 註華嚴經題法界觀門頌引
-:END:
-¶
+* 註華嚴經題法界觀門頌引¶
 ¶
 徐呂取韻切忌道著¶
 歸德法雲洒掃比丘琮湛撰并集解¶
@@ -49,8 +45,7 @@ No.1885¶
 海。時正大元年歲次甲申仲冬望日記。¶
 ¶
 ¶
-
- 上華嚴七字經題法界觀三十門頌¶
+華嚴七字經題法界觀三十門頌¶
 卷上¶
 ¶
 夷門山廣智大師本嵩述¶
